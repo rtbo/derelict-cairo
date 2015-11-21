@@ -1,0 +1,15 @@
+{
+	"name":        "derelict-cairo",
+	"description": "Derelict bindings for the cairo graphics library",
+	"copyright":   "Copyright © 2015, Remi Thebault",
+	"authors":     ["Remi Thebault"],
+	"license":     "MIT",
+	"targetType":  "library",
+	"dependencies": {
+	    "derelict-util":    "~>2.0.3"
+	},
+
+	"subPackages": [
+		"./examples/imagetest/"
+	]
+}

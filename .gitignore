@@ -1,0 +1,10 @@
+# DUB generated files
+.dub/
+dub.selections.json
+*.a
+__test__library__
+examples/imagetest/derelict-cairo_imagetest
+
+# VIM generated files
+*.swp
+

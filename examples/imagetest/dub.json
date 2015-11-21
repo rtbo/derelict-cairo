@@ -1,0 +1,12 @@
+{
+	"name":	       "imagetest",
+	"description": "derelict-cairo test example",
+	"copyright":   "Copyright © 2015, Remi Thebault",
+	"authors":	   ["Remi Thebault"],
+	"license": 	   "MIT",
+	"targetType":  "executable",
+
+	"dependencies": {
+		"derelict-cairo": "*"
+	}
+}
